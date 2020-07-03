@@ -175,7 +175,7 @@ operador-8 (1 -2)
 
 Na implementação dos operadores foram validados os seus movimentos bem como a aplicação de todas as Regra Referidas No Topico Acima.
 
-![alt text](img/KnightMoves.png?sanitize=true "IPS logo")
+![alt text](Manuais/img/KnightMoves.png?sanitize=true "IPS logo")
 
 ### Nó
 
