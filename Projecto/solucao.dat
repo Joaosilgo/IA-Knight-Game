@@ -1,0 +1,6877 @@
+
+ STATS 
+
+
+ Final State: 
+
+ _______________ 
+
+ _______  19:59:54 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 2
+          Penetration: 0.6666667
+          Points 47
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ STATS 
+
+
+ Final State: 
+
+  NIL 
+
+ _______________ 
+
+ _______  20:02:52 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 2
+          Penetration: 0.6666667
+          Points 47
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ STATS 
+
+
+ Final State: 
+
+  NIL 
+
+ _______________ 
+
+ _______  20:04:13 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 2
+          Penetration: 0.6666667
+          Points 47
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ STATS 
+
+
+ Final State: 
+
+  ((NIL 20 T NIL NIL NIL NIL NIL NIL NIL) (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL) (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL) (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL) (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL) (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL) (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL) (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL) (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL) (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)) 
+
+ _______________ 
+
+ _______  20:07:49 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 2
+          Penetration: 0.6666667
+          Points 47
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ STATS 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ _______________ 
+
+ _______  20:13:02 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 2
+          Penetration: 0.6666667
+          Points 47
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:41:52 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((2 NIL 44 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL T NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 2
+          Penetration: 0.6666667
+          Points 52
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:42:15 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 67 10 8 NIL 73 14 22 35 T)
+ (29 37 NIL 4 99 87 NIL NIL 48 6)
+ (1 53 84 31 82 88 61 13 NIL 39)
+ (45 9 42 76 94 95 68 52 7 47)
+ (36 32 26 57 40 38 92 19 70 98)
+ (11 72 62 79 89 77 44 58 12 27)
+ (43 74 28 0 34 80 20 83 NIL 30)
+ (81 66 91 59 25 93 54 2 3 69)
+ (17 78 60 63 71 97 33 23 21 85)
+ (16 18 41 86 75 49 NIL NIL 24 96))
+ ___________________________________
+
+          G (Depth): 5 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 9709
+          Expanded Nodes: 1573
+          Penetration: 0.0005149861
+          Points 276
+          Average branching factor 4.439027
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:42:38 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 42 1 10 7 NIL 84 5 25 T)
+ (61 45 64 NIL 50 52 77 NIL 29 3)
+ (40 NIL 79 13 66 NIL 54 89 NIL 97)
+ (21 75 19 28 63 20 88 26 4 35)
+ (78 99 94 12 70 92 0 62 82 53)
+ (85 22 44 8 2 51 14 56 58 67)
+ (32 69 93 74 38 98 23 41 43 18)
+ (65 55 49 48 NIL 47 9 96 31 NIL)
+ (83 90 15 34 39 80 NIL 16 91 57)
+ (33 87 81 36 76 37 46 73 30 24))
+ ___________________________________
+
+          G (Depth): 5 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 5903
+          Expanded Nodes: 848
+          Penetration: 0.00084702694
+          Points 213
+          Average branching factor 4.041123
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:43:02 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 84 11 24 T 18 54 85 15 83)
+ (75 79 NIL 4 73 46 NIL 99 51 NIL)
+ (20 89 41 NIL NIL NIL 81 30 16 NIL)
+ (97 21 33 88 40 NIL NIL 69 57 60)
+ (19 NIL 0 14 28 7 93 76 25 49)
+ (82 48 67 29 58 66 77 71 90 27)
+ (98 94 2 6 NIL 59 74 37 38 42)
+ (1 3 13 39 22 35 61 64 44 96)
+ (17 78 47 12 91 9 70 56 65 43)
+ (53 31 34 95 92 55 87 72 45 52))
+ ___________________________________
+
+          G (Depth): 6 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 39048
+          Expanded Nodes: 6422
+          Penetration: 0.00015365704
+          Points 346
+          Average branching factor 5.632738
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:45:43 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 91 24 47 77 51 65 14 5 36)
+ (96 11 13 83 80 41 78 42 29 32)
+ (58 NIL NIL 34 68 35 66 70 NIL 52)
+ (97 61 49 7 30 28 6 27 93 50)
+ (75 19 NIL 85 60 87 43 9 23 38)
+ (64 95 94 79 25 39 82 31 76 NIL)
+ (NIL 10 63 NIL 67 56 59 72 89 90)
+ (2 NIL 33 53 71 17 22 3 99 1)
+ (45 92 NIL 98 57 55 69 81 46 18)
+ (T 44 16 0 54 74 88 20 8 15))
+ ___________________________________
+
+          G (Depth): 5 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3387
+          Expanded Nodes: 367
+          Penetration: 0.0014762327
+          Points 199
+          Average branching factor 3.7000623
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:49:38 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((2 NIL 44 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL T NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 2
+          Penetration: 0.6666667
+          Points 52
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:53:36 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 2
+          Penetration: 0.6666667
+          Points 47
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:54:05 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 73 79 44 40 11 90 NIL 32 65)
+ (69 2 NIL 9 37 59 46 49 NIL T)
+ (26 86 23 92 NIL 50 NIL NIL 38 43)
+ (66 3 89 10 94 64 18 70 NIL 75)
+ (NIL 62 81 21 76 NIL 29 8 14 93)
+ (20 83 24 35 1 31 NIL 52 85 28)
+ (91 5 33 99 57 17 87 71 80 68)
+ (96 22 82 15 13 41 45 34 51 77)
+ (67 97 95 53 78 58 54 88 12 27)
+ (4 30 39 0 42 25 7 56 72 98))
+ ___________________________________
+
+          G (Depth): 6 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 37349
+          Expanded Nodes: 6190
+          Penetration: 0.00016064687
+          Points 262
+          Average branching factor 5.5758944
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:57:55 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 8 68 80 14 94 60 95 NIL 1)
+ (NIL 72 18 NIL 90 NIL NIL 98 NIL 83)
+ (92 NIL NIL 52 NIL 67 59 49 58 NIL)
+ (66 82 NIL NIL NIL 22 96 NIL 53 29)
+ (33 86 NIL 10 76 2 41 6 NIL 20)
+ (35 NIL 99 38 85 84 69 11 NIL 81)
+ (NIL NIL NIL NIL 88 0 25 NIL NIL NIL)
+ (55 71 89 77 87 27 40 NIL NIL NIL)
+ (56 78 NIL 5 NIL 28 NIL NIL NIL NIL)
+ (50 4 48 65 9 17 NIL NIL NIL T))
+ ___________________________________
+
+          G (Depth): 20 
+          H (Heuristic): 63.0
+          Solution Length: 6
+          Generated Nodes: 145
+          Expanded Nodes: 39
+          Penetration: 0.13793104
+          Points 847
+          Average branching factor 2.0516033
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:07:56 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 25 65 76 27 56 NIL 26 NIL NIL)
+ (59 62 NIL 71 NIL 40 24 NIL NIL 15)
+ (60 96 NIL 4 46 68 11 NIL NIL NIL)
+ (88 NIL NIL NIL 0 NIL 55 41 NIL NIL)
+ (99 NIL 52 58 NIL 79 57 NIL NIL NIL)
+ (77 NIL NIL 3 NIL 66 NIL 97 86 NIL)
+ (NIL NIL 87 78 30 91 6 69 NIL NIL)
+ (22 64 NIL 95 85 NIL 67 NIL NIL NIL)
+ (NIL 42 72 NIL NIL 14 NIL NIL NIL 51)
+ (33 NIL NIL 44 75 19 NIL NIL NIL T))
+ ___________________________________
+
+          G (Depth): 24 
+          H (Heuristic): 53.0
+          Solution Length: 6
+          Generated Nodes: 178
+          Expanded Nodes: 48
+          Penetration: 0.13483146
+          Points 1271
+          Average branching factor 2.16529
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:18:16 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL NIL 57 NIL NIL 70 NIL 82 NIL 10)
+ (55 NIL NIL 81 95 28 NIL 65 44 36)
+ (24 6 29 60 39 59 86 NIL 40 NIL)
+ (79 4 75 NIL NIL 5 7 NIL 33 85)
+ (46 97 58 NIL 78 89 32 87 NIL NIL)
+ (64 17 56 96 NIL 42 92 69 NIL 12)
+ (77 NIL NIL 34 1 9 21 NIL 68 NIL)
+ (62 72 90 23 50 NIL 71 63 NIL NIL)
+ (88 8 11 18 NIL 0 98 NIL NIL 27)
+ (80 93 26 91 76 19 NIL 67 43 T))
+ ___________________________________
+
+          G (Depth): 16 
+          H (Heuristic): 71.0
+          Solution Length: 6
+          Generated Nodes: 126
+          Expanded Nodes: 32
+          Penetration: 0.12698414
+          Points 661
+          Average branching factor 1.9947598
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:27:18 of Sunday, 12/15/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 65 21 NIL 89 11 95 5 74 47)
+ (86 72 43 54 42 13 25 36 6 78)
+ (55 NIL 30 58 10 77 68 NIL 96 0)
+ (NIL 31 39 44 69 NIL 93 20 7 50)
+ (70 22 NIL 29 3 32 19 2 34 79)
+ (45 60 56 12 NIL 85 87 99 41 88)
+ (NIL 4 23 90 76 1 NIL NIL 63 NIL)
+ (71 97 24 27 52 NIL 61 26 NIL NIL)
+ (46 NIL 9 92 33 17 16 NIL NIL 62)
+ (NIL 40 91 67 66 98 NIL 64 14 T))
+ ___________________________________
+
+          G (Depth): 10 
+          H (Heuristic): 81.0
+          Solution Length: 6
+          Generated Nodes: 91
+          Expanded Nodes: 21
+          Penetration: 0.10989011
+          Points 495
+          Average branching factor 1.881073
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  16:53:25 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 90 18 45 NIL 71 34 NIL T 52)
+ (42 16 0 NIL NIL 23 NIL 4 56 NIL)
+ (5 NIL 24 85 NIL NIL 30 NIL NIL NIL)
+ (NIL 39 83 87 43 58 70 79 28 67)
+ (6 8 48 32 93 NIL 17 99 NIL NIL)
+ (9 86 21 66 NIL 46 NIL 36 80 84)
+ (14 51 63 33 54 64 25 12 1 97)
+ (40 35 76 3 2 7 13 20 77 38)
+ (53 62 31 10 11 47 74 82 50 68)
+ (81 60 65 NIL NIL 61 44 26 15 41))
+ ___________________________________
+
+          G (Depth): 12 
+          H (Heuristic): 25.132269
+          Solution Length: 6
+          Generated Nodes: 152
+          Expanded Nodes: 33
+          Penetration: 0.078947366
+          Points 906
+          Average branching factor 2.0516033
+
+
+
+
+
+
+
+
+
+                          ¦ SOLUTION NOT FOUND ¦ 
+ 
+
+
+
+
+                          ¦ SOLUTION NOT FOUND ¦ 
+ 
+
+
+
+
+                          ¦ SOLUTION NOT FOUND ¦ 
+ 
+
+ ______________STATS______________ 
+
+ _______  17:06:06 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL 6 NIL 8 NIL 10 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 5 NIL 7 NIL 9 NIL 11)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 7.862069
+          Solution Length: 6
+          Generated Nodes: 5
+          Expanded Nodes: 4
+          Penetration: 0.4
+          Points 5
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  17:06:26 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 12 3 23 NIL 88 NIL NIL NIL NIL)
+ (21 NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 3 
+          H (Heuristic): 3.1578946
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 5
+          Penetration: 0.375
+          Points 153
+          Average branching factor 1.0852652
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  17:07:11 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 55 74 76 94 4 NIL 58 13 56)
+ (95 50 20 30 54 1 25 72 NIL NIL)
+ (NIL NIL 47 NIL NIL NIL 61 NIL 45 21)
+ (99 90 NIL 42 NIL NIL NIL NIL NIL NIL)
+ (T 40 NIL NIL NIL 49 NIL 59 NIL NIL)
+ (85 88 NIL 27 31 NIL NIL NIL NIL NIL)
+ (44 NIL 33 NIL NIL 5 NIL NIL NIL NIL)
+ (NIL 82 22 NIL 9 NIL NIL 2 10 3)
+ (NIL 11 NIL 52 28 NIL NIL NIL NIL 0)
+ (NIL 35 NIL 16 NIL NIL 12 24 65 67))
+ ___________________________________
+
+          G (Depth): 26 
+          H (Heuristic): 5.1209493
+          Solution Length: 6
+          Generated Nodes: 298
+          Expanded Nodes: 75
+          Penetration: 0.087248326
+          Points 1817
+          Average branching factor 2.3358205
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:09:12 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 2
+          Penetration: 0.6666667
+          Points 47
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:11:53 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 3
+          Penetration: 0.6666667
+          Points 47
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:12:07 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 3
+          Penetration: 0.6666667
+          Points 47
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:12:32 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 9 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 10
+          Expanded Nodes: 10
+          Penetration: 0.9
+          Points 63
+          Average branching factor 1.1421085
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:12:58 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 12 3 23 NIL 88 NIL NIL NIL NIL)
+ (21 NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 3 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 6
+          Expanded Nodes: 4
+          Penetration: 0.5
+          Points 153
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:13:24 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 12 3 23 NIL 88 NIL NIL NIL NIL)
+ (21 NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 3 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 6
+          Expanded Nodes: 4
+          Penetration: 0.5
+          Points 153
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:13:41 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((1 T 3 23 NIL 88 NIL NIL NIL NIL)
+ (21 45 43 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 56 NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 54 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 0 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 1
+          Expanded Nodes: 0
+          Penetration: 0.0
+          Points 0
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:15:26 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((1 12 NIL 23 NIL 88 NIL NIL NIL NIL)
+ (21 NIL 43 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 56 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (89 NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 3 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 4
+          Penetration: 0.375
+          Points 222
+          Average branching factor 1.0852652
+
+
+
+
+
+
+
+
+
+                          ¦ SOLUTION NOT FOUND ¦ 
+ 
+
+
+
+
+                          ¦ SOLUTION NOT FOUND ¦ 
+ 
+
+
+
+
+                          ¦ SOLUTION NOT FOUND ¦ 
+ 
+
+
+
+
+                          ¦ SOLUTION NOT FOUND ¦ 
+ 
+
+ ______________STATS______________ 
+
+ _______  20:21:17 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((2 NIL 4 NIL 6 NIL 8 NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL 5 NIL 7 NIL 9 NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 1 
+          H (Heuristic): 9.818182
+          Solution Length: 6
+          Generated Nodes: 2
+          Expanded Nodes: 1
+          Penetration: 0.5
+          Points 11
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:38:58 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 2
+          Penetration: 0.6666667
+          Points 47
+          Average branching factor 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:48:59 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 64 76 7 66 NIL NIL 23 NIL T)
+ (15 NIL NIL NIL NIL 93 NIL NIL NIL 59)
+ (67 NIL 77 61 NIL 14 NIL NIL NIL NIL)
+ (33 97 51 NIL 38 NIL 83 NIL NIL NIL)
+ (NIL NIL NIL 19 91 NIL 16 NIL 71 NIL)
+ (NIL NIL NIL NIL 4 30 11 41 NIL NIL)
+ (40 55 31 NIL 45 88 NIL NIL NIL 5)
+ (NIL NIL 73 12 0 NIL 50 13 NIL NIL)
+ (92 NIL 70 17 37 46 79 NIL NIL NIL)
+ (32 NIL 95 3 21 NIL NIL 39 29 NIL))
+ ___________________________________
+
+          G (Depth): 27 
+          H (Heuristic): 7.3243985
+          Solution Length: 6
+          Generated Nodes: 227
+          Expanded Nodes: 60
+          Penetration: 0.11894273
+          Points 1693
+          Average branching factor 2.2221337
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:36:17 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 49 42 10 50 62 83 NIL 0 T)
+ (79 NIL 36 40 59 39 26 NIL 47 6)
+ (60 NIL 31 75 67 NIL 76 56 NIL NIL)
+ (23 NIL NIL 13 85 20 57 NIL NIL 33)
+ (46 24 NIL 97 87 34 48 55 NIL NIL)
+ (38 80 17 16 95 53 77 41 61 32)
+ (88 8 35 NIL 90 14 73 NIL NIL NIL)
+ (11 84 91 58 64 NIL 81 63 71 5)
+ (93 65 78 NIL NIL 43 19 18 NIL 4)
+ (28 37 99 2 82 44 NIL 94 74 1))
+ ___________________________________
+
+          G (Depth): 13 
+          H (Heuristic): 27.45956
+          Solution Length: 6
+          Generated Nodes: 112
+          Expanded Nodes: 27
+          Penetration: 0.116071426
+          Points 693
+          Average branching factor 1.9379163
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:38:13 of Monday, 12/16/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 1 60 NIL T 40 NIL NIL NIL NIL)
+ (76 NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (77 NIL 50 NIL 88 NIL NIL NIL NIL NIL)
+ (20 2 62 66 NIL 64 NIL NIL NIL NIL)
+ (NIL 6 NIL 90 NIL NIL NIL 7 NIL NIL)
+ (NIL NIL 81 5 10 NIL 0 70 18 NIL)
+ (52 99 43 NIL 67 19 NIL NIL 11 NIL)
+ (NIL 8 NIL 9 33 NIL 46 NIL 34 NIL)
+ (26 NIL 4 NIL NIL NIL NIL NIL NIL NIL)
+ (25 80 23 91 32 NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 32 
+          H (Heuristic): 5.9938574
+          Solution Length: 6
+          Generated Nodes: 249
+          Expanded Nodes: 70
+          Penetration: 0.12851405
+          Points 1774
+          Average branching factor 2.278977
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  01:36:18 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 69 71 96 84 2 95 46 22 54)
+ (99 50 87 0 30 38 93 3 37 18)
+ (58 NIL 14 40 52 81 16 90 57 NIL)
+ (59 86 11 80 67 42 74 72 49 79)
+ (41 6 NIL 89 7 31 20 9 76 17)
+ (5 NIL 12 NIL 98 73 48 83 25 35)
+ (34 NIL 28 64 24 85 4 23 53 75)
+ (NIL 70 NIL 45 33 8 68 44 19 13)
+ (27 43 88 NIL 78 NIL 55 61 60 66)
+ (77 T 91 94 32 NIL 21 97 47 82))
+ ___________________________________
+
+          G (Depth): 6 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 22570
+          Expanded Nodes: 2896
+          Penetration: 0.0002658396
+          Points 253
+          Average branching factor 5.121147
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  01:37:36 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 3
+          Penetration: 0.6666667
+          Points 47
+          Average branching factor 1.0284217
+
+
+
+
+
+
+
+
+
+                          ¦ SOLUTION NOT FOUND ¦ 
+ 
+
+ ______________STATS______________ 
+
+ _______  01:48:36 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 18
+          Expanded Nodes: 3
+          Penetration: 0.11111111
+          Points 49
+          Average branching factor 1.3126388
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  01:48:52 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 9 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 10
+          Expanded Nodes: 9
+          Penetration: 0.9
+          Points 63
+          Average branching factor 1.1421085
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  01:49:08 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 11
+          Expanded Nodes: 4
+          Penetration: 0.18181819
+          Points 49
+          Average branching factor 1.198952
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  14:57:25 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 18
+          Expanded Nodes: 3
+          Penetration: 0.11111111
+          Points 49
+          Average branching factor 1.3126388
+
+
+
+
+
+
+
+
+
+                          ¦ SOLUTION NOT FOUND ¦ 
+ 
+
+ ______________STATS______________ 
+
+ _______  17:14:08 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 18
+          Expanded Nodes: 3
+          Penetration: 0.11111111
+          Points 49
+          Average branching factor 1.3126388
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:02:37 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 97 59 NIL 1 73 NIL 22 67 60)
+ (61 16 NIL 12 NIL 48 10 9 6 76)
+ (58 13 54 42 28 91 NIL 94 53 36)
+ (19 20 45 NIL 83 38 25 29 35 82)
+ (89 NIL 64 21 NIL NIL 23 72 14 NIL)
+ (63 75 71 41 26 56 7 NIL 31 62)
+ (65 NIL 4 24 92 74 NIL 78 2 5)
+ (11 47 37 51 NIL 32 70 NIL NIL 0)
+ (85 79 50 49 84 43 17 NIL 15 95)
+ (87 98 27 52 40 46 34 57 90 T))
+ ___________________________________
+
+          G (Depth): 6 
+          H (Heuristic): 33.2667
+          Solution Length: 6
+          Generated Nodes: 67
+          Expanded Nodes: 14
+          Penetration: 0.08955224
+          Points 516
+          Average branching factor 1.7673862
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:03:00 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 90 27 32 12 21 NIL 1 NIL T)
+ (NIL 9 14 3 NIL 19 40 NIL NIL NIL)
+ (NIL NIL NIL 84 39 NIL 70 NIL NIL NIL)
+ (NIL 5 8 2 NIL 58 NIL NIL NIL NIL)
+ (NIL 76 NIL NIL 73 10 NIL NIL NIL 7)
+ (74 37 69 80 25 47 NIL 93 NIL NIL)
+ (0 75 42 NIL 56 NIL 85 NIL NIL NIL)
+ (48 NIL 4 41 NIL NIL NIL 87 23 NIL)
+ (52 NIL NIL 24 NIL NIL NIL 72 NIL 50)
+ (20 96 57 30 NIL 78 NIL NIL 91 67))
+ ___________________________________
+
+          G (Depth): 21 
+          H (Heuristic): 16.560797
+          Solution Length: 6
+          Generated Nodes: 145
+          Expanded Nodes: 42
+          Penetration: 0.14482759
+          Points 1281
+          Average branching factor 2.0516033
+
+
+
+
+
+
+
+
+
+                          ¦ SOLUTION NOT FOUND ¦ 
+ 
+
+ ______________STATS______________ 
+
+ _______  18:05:31 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 1 
+          H (Heuristic): 2.857143
+          Solution Length: 6
+          Generated Nodes: 17
+          Expanded Nodes: 10
+          Penetration: 0.05882353
+          Points 5
+          Average branching factor 1.3126388
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:19:52 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL NIL NIL NIL T NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 8 
+          H (Heuristic): 1.6
+          Solution Length: 6
+          Generated Nodes: 24
+          Expanded Nodes: 17
+          Penetration: 0.33333334
+          Points 54
+          Average branching factor 1.4263256
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:20:28 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 1 
+          H (Heuristic): 2.857143
+          Solution Length: 6
+          Generated Nodes: 17
+          Expanded Nodes: 10
+          Penetration: 0.05882353
+          Points 5
+          Average branching factor 1.3126388
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:20:44 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 12 3 23 NIL NIL NIL NIL NIL NIL)
+ (21 NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 3 
+          H (Heuristic): 4.1375466
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 12
+          Penetration: 0.10714286
+          Points 154
+          Average branching factor 1.4831691
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:21:13 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 90 89)
+ (1 2 3 4 5 55 6 7 8 9)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL 11)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL T NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 8.9934
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 11
+          Penetration: 0.071428575
+          Points 186
+          Average branching factor 1.4831691
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:25:14 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 1 
+          H (Heuristic): 2.857143
+          Solution Length: 6
+          Generated Nodes: 17
+          Expanded Nodes: 10
+          Penetration: 0.05882353
+          Points: 5
+          Objective: 70
+          Average branching factor: 1.3126388
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:25:27 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL NIL NIL NIL T NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 8 
+          H (Heuristic): 1.6
+          Solution Length: 6
+          Generated Nodes: 24
+          Expanded Nodes: 17
+          Penetration: 0.33333334
+          Points: 54
+          Objective: 60
+          Average branching factor: 1.4263256
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:25:50 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 12 3 23 NIL NIL NIL NIL NIL NIL)
+ (21 NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 3 
+          H (Heuristic): 4.1375466
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 12
+          Penetration: 0.10714286
+          Points: 154
+          Objective: 270
+          Average branching factor: 1.4831691
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:26:09 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 90 89)
+ (1 2 3 4 5 55 6 7 8 9)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL 11)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL T NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 2 
+          H (Heuristic): 8.9934
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 11
+          Penetration: 0.071428575
+          Points: 186
+          Objective: 600
+          Average branching factor: 1.4831691
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:26:23 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL 15 NIL NIL NIL 25)
+ (NIL NIL NIL NIL NIL NIL NIL 16 NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL 24)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL 2 NIL NIL NIL 12 NIL NIL NIL NIL)
+ (NIL NIL NIL 9 NIL NIL NIL 19 NIL NIL)
+ (NIL 1 NIL NIL NIL NIL NIL NIL NIL 21)
+ (NIL NIL NIL 10 NIL NIL NIL 20 NIL NIL))
+ ___________________________________
+
+          G (Depth): 8 
+          H (Heuristic): 15.63492
+          Solution Length: 6
+          Generated Nodes: 33
+          Expanded Nodes: 17
+          Penetration: 0.24242425
+          Points: 107
+          Objective: 300
+          Average branching factor: 1.5400125
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:27:03 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 83 38 NIL 50 37 NIL 63 NIL T)
+ (NIL NIL NIL 81 NIL 21 65 NIL NIL 30)
+ (12 NIL 43 4 51 84 NIL NIL NIL NIL)
+ (NIL 3 90 7 NIL NIL NIL NIL 15 NIL)
+ (74 62 NIL NIL 69 97 71 25 NIL NIL)
+ (NIL 56 85 6 26 87 NIL 13 17 9)
+ (60 NIL NIL NIL 79 NIL 52 NIL NIL NIL)
+ (70 48 39 36 73 NIL NIL NIL 96 93)
+ (19 40 NIL 31 NIL NIL NIL NIL NIL NIL)
+ (91 5 75 47 18 78 NIL 34 NIL 58))
+ ___________________________________
+
+          G (Depth): 21 
+          H (Heuristic): 21.837939
+          Solution Length: 6
+          Generated Nodes: 95
+          Expanded Nodes: 30
+          Penetration: 0.22105263
+          Points: 949
+          Objective: 2000
+          Average branching factor: 1.881073
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:27:50 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          G (Depth): 1 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 17
+          Expanded Nodes: 2
+          Penetration: 0.05882353
+          Points: 5
+          Objective: 70
+          Average branching factor: 1.3126388
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:33:36 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 20 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 1 
+          H (Heuristic): 2.857143
+          Solution Length: 6
+          Generated Nodes: 17
+          Expanded Nodes: 10
+          Penetration: 0.05882353
+          Points: 5
+          Objective: 70
+          Average branching factor: 1.3126388
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:34:57 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL NIL NIL NIL T NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 8 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 24
+          Expanded Nodes: 9
+          Penetration: 0.33333334
+          Points: 54
+          Objective: 60
+          Average branching factor: 1.4263256
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:35:12 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 12 3 23 NIL NIL NIL NIL NIL NIL)
+ (21 NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 3 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 70
+          Expanded Nodes: 7
+          Penetration: 0.042857144
+          Points: 154
+          Objective: 270
+          Average branching factor: 1.7673862
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  18:35:40 of Wednesday, 12/18/2019 (GMT+0) _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 90 89)
+ (1 2 3 4 5 55 6 7 8 9)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL 11)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL T NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 67
+          Expanded Nodes: 4
+          Penetration: 0.029850746
+          Points: 186
+          Objective: 600
+          Average branching factor: 1.7673862
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:05:32 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 6.090909
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 3
+          Penetration: 0.6666667
+          Points: 5
+          Objective: 70
+          Average branching factor: 1.0284217
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:07:01 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 20 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 1 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 17
+          Expanded Nodes: 2
+          Penetration: 0.05882353
+          Points: 5
+          Objective: 70
+          Average branching factor: 1.3126388
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:10:23 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 20 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 1 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 17
+          Expanded Nodes: 2
+          Penetration: 0.05882353
+          Points: 5
+          Objective: 70
+          Average branching factor: 1.3126388
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:11:19 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 20 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 1 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 17
+          Expanded Nodes: 2
+          Penetration: 0.05882353
+          Points: 5
+          Objective: 70
+          Average branching factor: 1.3126388
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:13:05 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 20 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 1 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 17
+          Expanded Nodes: 2
+          Penetration: 0.05882353
+          Points: 5
+          Objective: 70
+          Average branching factor: 1.3126388          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:30:39 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 20 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 1 
+          H (Heuristic): 2.857143
+          Solution Length: 6
+          Generated Nodes: 17
+          Expanded Nodes: 10
+          Penetration: 0.05882353
+          Points: 5
+          Objective: 70
+          Average branching factor: 1.3126388%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:14:58 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL 69 39 15 NIL 5 NIL NIL 13)
+ (NIL NIL 24 32 NIL 76 NIL 12 49 NIL)
+ (82 NIL NIL 30 NIL 37 61 NIL NIL NIL)
+ (NIL 28 18 NIL 68 63 NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 67 36 NIL NIL NIL NIL)
+ (56 0 81 93 65 NIL NIL NIL NIL NIL)
+ (NIL 73 31 NIL NIL 23 51 NIL NIL NIL)
+ (NIL 42 NIL NIL 89 NIL NIL NIL NIL NIL)
+ (NIL 86 94 50 NIL NIL NIL NIL NIL NIL)
+ (16 NIL NIL 21 98 96 NIL NIL 3 T))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 26 
+          H (Heuristic): 12.486363
+          Solution Length: 6
+          Generated Nodes: 96
+          Expanded Nodes: 35
+          Penetration: 0.27083334
+          Points: 1477
+          Objective: 2000
+          Average branching factor: 1.881073%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:15:59 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 85 NIL NIL 38 50 4 18 25 16)
+ (6 21 98 65 8 NIL 89 NIL 26 NIL)
+ (NIL NIL 0 NIL NIL 20 52 NIL 74 67)
+ (57 45 47 5 30 NIL 15 NIL NIL NIL)
+ (37 54 NIL 43 NIL 51 NIL NIL NIL 62)
+ (76 34 39 73 NIL 3 41 96 NIL NIL)
+ (NIL 93 NIL NIL NIL 46 2 NIL NIL NIL)
+ (83 75 69 58 81 12 NIL NIL NIL NIL)
+ (NIL 14 61 NIL NIL NIL NIL NIL NIL NIL)
+ (60 56 40 NIL 80 NIL NIL 64 NIL T))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 20 
+          H (Heuristic): 16.659483
+          Solution Length: 6
+          Generated Nodes: 100
+          Expanded Nodes: 29
+          Penetration: 0.2
+          Points: 1244
+          Objective: 2000
+          Average branching factor: 1.9379163%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:17:14 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 70 NIL 16 72 NIL NIL NIL 38 T)
+ (19 2 58 96 NIL 3 87 NIL NIL 8)
+ (7 NIL 14 57 94 31 NIL NIL NIL NIL)
+ (41 51 26 35 98 NIL 71 43 NIL NIL)
+ (NIL 75 NIL 13 61 20 NIL NIL NIL 89)
+ (NIL 53 NIL 63 91 40 36 17 6 NIL)
+ (69 47 NIL NIL NIL 60 NIL NIL 73 NIL)
+ (NIL 83 34 37 25 56 4 80 15 45)
+ (52 0 30 85 NIL 54 62 78 NIL 23)
+ (39 65 93 NIL 74 27 NIL 49 NIL 32))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 15 
+          H (Heuristic): 25.516528
+          Solution Length: 6
+          Generated Nodes: 78
+          Expanded Nodes: 24
+          Penetration: 0.1923077
+          Points: 851
+          Objective: 2000
+          Average branching factor: 1.8242295%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:32:40 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 85 30 61 NIL NIL 66 NIL NIL T)
+ (NIL 7 NIL 57 NIL 71 NIL NIL NIL NIL)
+ (NIL NIL 88 NIL 55 45 NIL 33 NIL NIL)
+ (NIL 24 54 0 8 75 NIL NIL NIL 42)
+ (48 31 NIL NIL 13 36 NIL NIL NIL NIL)
+ (70 NIL 3 63 84 38 NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 64 76 80 NIL 50 NIL)
+ (5 NIL NIL 67 NIL 17 37 NIL NIL NIL)
+ (92 49 73 83 NIL 46 NIL NIL NIL 94)
+ (NIL 16 NIL 44 29 NIL NIL 22 58 NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 27 
+          H (Heuristic): 12.522052
+          Solution Length: 6
+          Generated Nodes: 119
+          Expanded Nodes: 36
+          Penetration: 0.22689076
+          Points: 1429
+          Objective: 2000
+          Average branching factor: 1.9947598%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:36:45 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 2.267442
+          Solution Length: 6
+          Generated Nodes: 18
+          Expanded Nodes: 11
+          Penetration: 0.11111111
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.3126388%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:38:16 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 9 
+          H (Heuristic): 0.54545457
+          Solution Length: 6
+          Generated Nodes: 25
+          Expanded Nodes: 18
+          Penetration: 0.36
+          Points: 65
+          Objective: 60
+          Average branching factor: 1.4263256%
+          OBJECTIVE REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:39:51 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 12 3 23 NIL 88 NIL NIL NIL NIL)
+ (21 NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 3 
+          H (Heuristic): 3.1381579
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 12
+          Penetration: 0.10714286
+          Points: 154
+          Objective: 270
+          Average branching factor: 1.4831691%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:40:59 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 12 3 23 NIL 88 NIL NIL NIL NIL)
+ (21 NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 3 
+          H (Heuristic): 3.1381579
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 12
+          Penetration: 0.10714286
+          Points: 154
+          Objective: 270
+          Average branching factor: 1.4831691%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:41:29 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 18
+          Expanded Nodes: 3
+          Penetration: 0.11111111
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.3126388%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:42:10 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL 15 NIL NIL NIL 25)
+ (NIL NIL NIL NIL NIL NIL NIL 16 NIL NIL)
+ (NIL 4 NIL NIL NIL NIL NIL NIL NIL 24)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 12 
+          H (Heuristic): 10.039683
+          Solution Length: 6
+          Generated Nodes: 39
+          Expanded Nodes: 21
+          Penetration: 0.30769232
+          Points: 186
+          Objective: 300
+          Average branching factor: 1.5968559%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:45:02 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL 15 NIL NIL NIL 25)
+ (NIL NIL NIL NIL NIL NIL NIL 16 NIL NIL)
+ (NIL 4 NIL NIL NIL NIL NIL NIL NIL 24)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 12 
+          H (Heuristic): 10.039683
+          Solution Length: 6
+          Generated Nodes: 39
+          Expanded Nodes: 21
+          Penetration: 0.30769232
+          Points: 186
+          Objective: 300
+          Average branching factor: 1.5968559%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:47:57 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL 15 NIL NIL NIL 25)
+ (NIL NIL NIL NIL NIL NIL NIL 16 NIL NIL)
+ (NIL 4 NIL NIL NIL NIL NIL NIL NIL 24)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 12 
+          H (Heuristic): 10.039683
+          Solution Length: 6
+          Generated Nodes: 39
+          Expanded Nodes: 21
+          Penetration: 0.30769232
+          Points: 186
+          Objective: 300
+          Average branching factor: 1.5968559%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:48:17 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 18 91 28 13 26 NIL NIL NIL 42)
+ (NIL 77 39 NIL 46 NIL NIL NIL 22 NIL)
+ (NIL NIL 33 21 NIL 16 88 NIL NIL NIL)
+ (NIL 55 61 90 52 NIL NIL NIL NIL 9)
+ (95 78 NIL 0 NIL NIL 60 75 NIL 11)
+ (6 69 NIL NIL 37 84 81 NIL NIL NIL)
+ (31 73 NIL NIL NIL NIL NIL NIL 59 NIL)
+ (NIL 19 70 57 NIL NIL 25 93 NIL NIL)
+ (NIL 62 NIL NIL NIL 48 12 NIL NIL 64)
+ (NIL 24 82 NIL 44 7 NIL 96 NIL T))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 26 
+          H (Heuristic): 14.615481
+          Solution Length: 6
+          Generated Nodes: 120
+          Expanded Nodes: 35
+          Penetration: 0.21666667
+          Points: 1371
+          Objective: 2000
+          Average branching factor: 1.9947598%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:48:53 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL 15 NIL NIL NIL 25)
+ (NIL NIL NIL NIL NIL NIL NIL 16 NIL NIL)
+ (NIL 4 NIL NIL NIL NIL NIL NIL NIL 24)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 12 
+          H (Heuristic): 10.039683
+          Solution Length: 6
+          Generated Nodes: 39
+          Expanded Nodes: 21
+          Penetration: 0.30769232
+          Points: 186
+          Objective: 300
+          Average branching factor: 1.5968559%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:49:03 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL 15 NIL NIL NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 4 NIL NIL NIL NIL NIL NIL NIL 24)
+ (NIL NIL NIL 7 NIL NIL NIL 17 NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL 23)
+ (NIL NIL NIL 8 NIL NIL NIL 18 NIL NIL)
+ (NIL 2 NIL NIL NIL 12 NIL NIL NIL 22)
+ (NIL NIL NIL 9 NIL NIL NIL 19 NIL NIL)
+ (NIL 1 NIL NIL NIL 11 NIL NIL NIL 21)
+ (NIL NIL NIL 10 NIL NIL NIL 20 NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 4 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 256
+          Expanded Nodes: 15
+          Penetration: 0.015625
+          Points: 66
+          Objective: 300
+          Average branching factor: 2.278977%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:49:28 of Wednesday, 12/18/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 90 89)
+ (1 2 3 4 5 55 6 7 8 9)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL 11)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL T NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 67
+          Expanded Nodes: 4
+          Penetration: 0.029850746
+          Points: 186
+          Objective: 600
+          Average branching factor: 1.7673862%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  09:02:05 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 2.267442
+          Solution Length: 6
+          Generated Nodes: 18
+          Expanded Nodes: 11
+          Penetration: 0.11111111
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.3126388%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  09:58:36 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 93 96 NIL 43 67 NIL 47 NIL 64)
+ (35 65 8 NIL NIL 98 NIL 5 NIL 69)
+ (NIL NIL 2 34 82 11 NIL NIL 83 NIL)
+ (NIL NIL 89 86 71 NIL 22 NIL NIL NIL)
+ (72 33 NIL 53 81 32 NIL NIL NIL 63)
+ (62 26 39 38 73 NIL 57 75 80 NIL)
+ (6 49 94 NIL 66 18 23 T 44 NIL)
+ (NIL 76 77 78 27 NIL 68 36 87 NIL)
+ (28 88 17 56 NIL NIL NIL 74 NIL 12)
+ (50 20 46 NIL 21 37 NIL NIL 55 60))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 19 
+          H (Heuristic): 24.42521
+          Solution Length: 6
+          Generated Nodes: 94
+          Expanded Nodes: 28
+          Penetration: 0.20212767
+          Points: 765
+          Objective: 2000
+          Average branching factor: 1.881073%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  11:43:24 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL 47 84 74 NIL 87 NIL NIL NIL)
+ (NIL 30 48 NIL 23 NIL NIL NIL 3 78)
+ (NIL NIL NIL NIL NIL NIL NIL 10 NIL NIL)
+ (69 NIL 28 NIL 67 NIL NIL NIL NIL 68)
+ (NIL 0 NIL 22 NIL NIL NIL NIL NIL NIL)
+ (82 NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 25 NIL NIL NIL 86 NIL NIL NIL NIL)
+ (21 NIL 96 NIL 31 NIL 12 NIL NIL NIL)
+ (NIL 76 32 41 NIL NIL NIL T NIL NIL)
+ (NIL NIL 1 NIL 13 NIL NIL 14 NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 35 
+          H (Heuristic): 6.5182843
+          Solution Length: 6
+          Generated Nodes: 139
+          Expanded Nodes: 44
+          Penetration: 0.25179857
+          Points: 1760
+          Objective: 2000
+          Average branching factor: 2.0516033%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  19:02:42 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 50 NIL 70 NIL NIL 39 NIL NIL NIL)
+ (80 62 NIL 78 44 21 NIL NIL 38 NIL)
+ (12 NIL NIL NIL NIL 53 68 71 NIL NIL)
+ (24 41 NIL 61 8 NIL 28 NIL NIL 76)
+ (NIL 16 NIL 43 19 83 52 NIL NIL NIL)
+ (86 25 75 NIL 5 4 57 NIL NIL NIL)
+ (NIL 55 22 NIL 93 91 NIL NIL 54 NIL)
+ (35 7 NIL NIL 45 67 NIL 40 NIL NIL)
+ (14 82 NIL 87 NIL 42 79 NIL NIL 97)
+ (17 84 0 NIL NIL 48 NIL 11 26 T))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 24 
+          H (Heuristic): 15.669364
+          Solution Length: 6
+          Generated Nodes: 113
+          Expanded Nodes: 33
+          Penetration: 0.21238938
+          Points: 1311
+          Objective: 2000
+          Average branching factor: 1.9379163%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:07:59 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 20 T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 2.267442
+          Solution Length: 6
+          Generated Nodes: 18
+          Expanded Nodes: 11
+          Penetration: 0.11111111
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.3126388%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:08:18 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 5 12 28 37 NIL 1 NIL NIL NIL)
+ (NIL NIL 33 55 49 88 NIL NIL 73 44)
+ (NIL NIL 82 25 16 NIL 72 47 NIL NIL)
+ (23 84 42 7 3 80 94 NIL NIL 75)
+ (NIL 17 NIL 27 11 22 56 NIL NIL NIL)
+ (29 NIL NIL NIL 48 70 14 NIL NIL NIL)
+ (85 57 15 NIL 20 58 51 30 NIL NIL)
+ (NIL NIL 77 41 71 24 NIL NIL NIL 2)
+ (92 32 NIL 96 NIL 52 NIL 69 NIL T)
+ (50 8 65 74 0 21 NIL NIL 10 61))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 21 
+          H (Heuristic): 16.248074
+          Solution Length: 6
+          Generated Nodes: 101
+          Expanded Nodes: 30
+          Penetration: 0.20792079
+          Points: 1303
+          Objective: 2000
+          Average branching factor: 1.9379163%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:08:27 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 9 
+          H (Heuristic): 0.54545457
+          Solution Length: 6
+          Generated Nodes: 25
+          Expanded Nodes: 18
+          Penetration: 0.36
+          Points: 65
+          Objective: 60
+          Average branching factor: 1.4263256%
+          OBJECTIVE REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:08:36 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 12 3 23 NIL 88 NIL NIL NIL NIL)
+ (21 NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 3 
+          H (Heuristic): 3.1381579
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 12
+          Penetration: 0.10714286
+          Points: 154
+          Objective: 270
+          Average branching factor: 1.4831691%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:09:01 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 90 89)
+ (1 2 3 4 5 55 6 7 8 9)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL 11)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL T NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 8.9934
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 11
+          Penetration: 0.071428575
+          Points: 186
+          Objective: 600
+          Average branching factor: 1.4831691%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:09:37 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL 15 NIL NIL NIL 25)
+ (NIL NIL NIL NIL NIL NIL NIL 16 NIL NIL)
+ (NIL 4 NIL NIL NIL NIL NIL NIL NIL 24)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 12 
+          H (Heuristic): 10.039683
+          Solution Length: 6
+          Generated Nodes: 39
+          Expanded Nodes: 21
+          Penetration: 0.30769232
+          Points: 186
+          Objective: 300
+          Average branching factor: 1.5968559%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:35:14 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((50 NIL 78 NIL NIL 38 NIL NIL NIL NIL)
+ (NIL 62 82 87 67 NIL 83 NIL NIL NIL)
+ (29 76 NIL NIL 56 NIL 97 NIL NIL NIL)
+ (NIL 28 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 66 NIL NIL NIL 71 NIL NIL NIL NIL)
+ (63 36 45 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 22 NIL NIL 30 26 NIL NIL NIL)
+ (NIL 11 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (65 NIL 5 NIL NIL NIL NIL NIL NIL NIL)
+ (54 92 79 17 3 NIL NIL NIL NIL T))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 35 
+          H (Heuristic): 9.643167
+          Solution Length: 6
+          Generated Nodes: 162
+          Expanded Nodes: 46
+          Penetration: 0.21604939
+          Points: 1578
+          Objective: 2000
+          Average branching factor: 2.1084466%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:35:24 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 1.5681818
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 6
+          Penetration: 0.25
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:35:50 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((2 NIL 4 NIL 6 NIL 8 NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL 5 NIL 7 NIL 9 NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 1 
+          H (Heuristic): 8.181818
+          Solution Length: 6
+          Generated Nodes: 15
+          Expanded Nodes: 7
+          Penetration: 0.06666667
+          Points: 21
+          Objective: 60
+          Average branching factor: 1.2557953%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:36:12 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 NIL T)
+ (1 2 3 4 5 55 6 NIL 8 NIL)
+ (NIL 66 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 22 NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 88 NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 3 
+          H (Heuristic): 8.988086
+          Solution Length: 6
+          Generated Nodes: 34
+          Expanded Nodes: 14
+          Penetration: 0.0882353
+          Points: 197
+          Objective: 600
+          Average branching factor: 1.5400125%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:36:27 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 NIL T)
+ (1 2 3 4 5 55 6 NIL 8 NIL)
+ (NIL 66 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 22 NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 88 NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 3 
+          H (Heuristic): 8.988086
+          Solution Length: 6
+          Generated Nodes: 34
+          Expanded Nodes: 14
+          Penetration: 0.0882353
+          Points: 197
+          Objective: 600
+          Average branching factor: 1.5400125%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:39:50 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: DFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 6
+          Expanded Nodes: 4
+          Penetration: 0.33333334
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0284217%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:41:14 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 12
+          Expanded Nodes: 7
+          Penetration: 0.16666667
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.198952%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:41:29 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((1 T 3 23 NIL 88 NIL NIL NIL NIL)
+ (NIL 45 43 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 56 NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 54 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 0 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 12
+          Expanded Nodes: 2
+          Penetration: 0.0
+          Points: 12
+          Objective: 270
+          Average branching factor: 1.198952%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:43:23 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 12
+          Expanded Nodes: 7
+          Penetration: 0.16666667
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.198952%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:18:48 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 1.5681818
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 6
+          Penetration: 0.25
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:20:59 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((44 NIL NIL NIL NIL 97 NIL 55 NIL 71)
+ (NIL 20 74 NIL 2 NIL NIL NIL NIL NIL)
+ (NIL NIL 13 NIL NIL NIL 96 NIL NIL NIL)
+ (66 15 61 16 47 69 NIL NIL NIL NIL)
+ (NIL 5 46 22 NIL NIL NIL 79 NIL NIL)
+ (83 33 NIL NIL NIL T 51 NIL NIL NIL)
+ (NIL 64 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 31 NIL 50 NIL NIL NIL NIL NIL NIL)
+ (11 38 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (77 NIL 34 NIL 17 NIL 43 NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 35 
+          H (Heuristic): 0.25
+          Solution Length: 6
+          Generated Nodes: 156
+          Expanded Nodes: 46
+          Penetration: 0.22435898
+          Points: 2083
+          Objective: 2000
+          Average branching factor: 2.1084466%
+          OBJECTIVE REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:21:15 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((2 NIL 4 NIL 6 NIL 8 NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL 5 NIL 7 NIL 9 NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 1 
+          H (Heuristic): 8.181818
+          Solution Length: 6
+          Generated Nodes: 15
+          Expanded Nodes: 7
+          Penetration: 0.06666667
+          Points: 21
+          Objective: 60
+          Average branching factor: 1.2557953%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:21:26 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((1 T 3 23 NIL 88 NIL NIL NIL NIL)
+ (NIL 45 43 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 56 NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 54 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 0 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 3
+          Penetration: 0.0
+          Points: 12
+          Objective: 270
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:22:03 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 NIL T)
+ (1 2 3 4 5 55 6 NIL 8 NIL)
+ (NIL 66 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 22 NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 88 NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 3 
+          H (Heuristic): 8.988086
+          Solution Length: 6
+          Generated Nodes: 34
+          Expanded Nodes: 14
+          Penetration: 0.0882353
+          Points: 197
+          Objective: 600
+          Average branching factor: 1.5400125%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  23:22:12 of Thursday, 12/19/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 5 NIL NIL NIL 15 NIL NIL NIL NIL)
+ (NIL NIL NIL 6 NIL NIL NIL NIL NIL NIL)
+ (NIL 4 NIL NIL NIL 14 NIL NIL NIL NIL)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 12 
+          H (Heuristic): 9.593023
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 16
+          Penetration: 0.42857143
+          Points: 226
+          Objective: 300
+          Average branching factor: 1.4831691%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  16:13:23 of Friday, 12/20/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 4.5681815
+          Solution Length: 6
+          Generated Nodes: 3
+          Expanded Nodes: 3
+          Penetration: 0.6666667
+          Points: 5
+          Objective: 70
+          Average branching factor: 1.0284217%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  04:10:10 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((11 16 35 NIL NIL NIL NIL 20 13 NIL)
+ (NIL 19 NIL 9 55 NIL 37 NIL NIL 25)
+ (50 NIL 3 2 92 0 NIL 97 NIL NIL)
+ (96 NIL 38 NIL NIL 66 12 NIL NIL NIL)
+ (91 33 24 26 62 NIL 61 NIL NIL NIL)
+ (53 21 NIL 28 22 64 1 NIL NIL NIL)
+ (98 48 30 63 5 NIL 69 NIL NIL T)
+ (79 90 75 89 80 31 39 NIL 84 NIL)
+ (52 93 8 57 10 NIL 82 46 NIL NIL)
+ (73 NIL NIL NIL NIL 83 42 29 NIL 36))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 20 
+          H (Heuristic): 20.492575
+          Solution Length: 6
+          Generated Nodes: 115
+          Expanded Nodes: 31
+          Penetration: 0.17391305
+          Points: 1128
+          Objective: 2000
+          Average branching factor: 1.9379163%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  04:10:32 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 1.5681818
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 6
+          Penetration: 0.25
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  04:14:16 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T 80 NIL 22 89 NIL 43 66 87 12)
+ (6 41 NIL 47 72 58 11 61 70 51)
+ (54 NIL 15 50 26 10 57 19 71 94)
+ (NIL 91 64 NIL 2 52 76 95 25 65)
+ (16 55 67 34 9 7 45 5 69 20)
+ (37 90 77 85 13 88 NIL 21 49 68)
+ (73 59 98 33 18 44 92 39 86 82)
+ (27 63 93 4 40 29 NIL 38 56 99)
+ (28 36 46 96 81 31 74 83 1 75)
+ (78 35 14 62 53 60 NIL 8 17 0))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 4 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 17614
+          Expanded Nodes: 2353
+          Penetration: 0.00022709208
+          Points: 204
+          Objective: 2000
+          Average branching factor: 4.893774%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  04:16:25 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 14 NIL 71 59 92 NIL NIL NIL 38)
+ (98 6 57 18 4 1 NIL 72 NIL NIL)
+ (NIL NIL NIL NIL 10 54 NIL 63 NIL NIL)
+ (NIL NIL 27 60 40 NIL 7 NIL NIL NIL)
+ (NIL 45 NIL 41 NIL 96 28 NIL NIL NIL)
+ (65 NIL 93 NIL 39 53 17 NIL NIL NIL)
+ (56 35 NIL NIL 68 95 NIL 36 NIL NIL)
+ (83 75 NIL 90 NIL NIL 11 89 NIL NIL)
+ (44 86 29 NIL NIL 82 69 T NIL NIL)
+ (81 NIL NIL NIL 70 NIL NIL NIL 9 NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 27 
+          H (Heuristic): 14.693483
+          Solution Length: 6
+          Generated Nodes: 143
+          Expanded Nodes: 38
+          Penetration: 0.18881119
+          Points: 1285
+          Objective: 2000
+          Average branching factor: 2.0516033%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  04:20:47 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 1.5681818
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 6
+          Penetration: 0.25
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  04:22:04 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 1.5681818
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 6
+          Penetration: 0.25
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  05:22:31 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((54 NIL 34 NIL 50 42 37 NIL 20 71)
+ (88 NIL 82 5 16 90 13 31 9 65)
+ (81 94 49 56 NIL 68 0 58 60 35)
+ (89 4 39 3 84 95 66 47 86 17)
+ (12 21 75 6 28 NIL 7 78 59 93)
+ (97 33 73 80 48 30 98 40 18 1)
+ (70 61 85 62 2 24 NIL 38 87 83)
+ (NIL 43 77 15 44 23 NIL 57 NIL 74)
+ (8 79 51 72 55 53 32 NIL 64 36)
+ (10 14 41 27 46 45 63 22 26 T))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 5 
+          H (Heuristic): 34.16991
+          Solution Length: 6
+          Generated Nodes: 69
+          Expanded Nodes: 16
+          Penetration: 0.072463766
+          Points: 409
+          Objective: 2000
+          Average branching factor: 1.7673862%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  19:37:06 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 1.5681818
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 6
+          Penetration: 0.25
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  19:37:49 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL 15 NIL NIL NIL 25)
+ (NIL NIL NIL NIL NIL NIL NIL 16 NIL NIL)
+ (NIL 4 NIL NIL NIL NIL NIL NIL NIL 24)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 9 NIL NIL NIL NIL NIL NIL)
+ (NIL 1 NIL NIL NIL T NIL NIL NIL NIL)
+ (NIL NIL NIL 10 NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: DFS 
+          G (Depth): 10 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 23
+          Expanded Nodes: 11
+          Penetration: 0.4347826
+          Points: 171
+          Objective: 300
+          Average branching factor: 1.4263256%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  19:43:07 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((74 5 83 20 27 NIL NIL 42 NIL 39)
+ (52 32 3 73 24 2 63 NIL NIL 1)
+ (55 87 NIL 51 30 NIL NIL NIL 53 NIL)
+ (93 15 96 10 67 69 72 41 NIL NIL)
+ (NIL 98 35 59 NIL 37 47 NIL NIL 89)
+ (25 NIL 90 NIL NIL 22 76 NIL NIL T)
+ (9 23 54 11 36 0 NIL NIL NIL NIL)
+ (45 50 91 NIL NIL NIL NIL NIL NIL NIL)
+ (82 NIL NIL 19 44 68 38 NIL NIL NIL)
+ (NIL 95 14 86 28 78 NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 21 
+          H (Heuristic): 19.245989
+          Solution Length: 6
+          Generated Nodes: 107
+          Expanded Nodes: 32
+          Penetration: 0.19626169
+          Points: 1128
+          Objective: 2000
+          Average branching factor: 1.9379163%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  19:43:15 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 12
+          Expanded Nodes: 7
+          Penetration: 0.16666667
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.198952%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  19:50:43 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 12
+          Expanded Nodes: 7
+          Penetration: 0.16666667
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.198952%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  19:50:56 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: DFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 6
+          Expanded Nodes: 4
+          Penetration: 0.33333334
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0284217%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  19:51:10 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T 36 NIL 42 58 19 59 13 32 10)
+ (99 81 NIL 56 3 75 51 83 28 39)
+ (77 NIL 95 57 30 65 73 6 23 93)
+ (0 40 7 5 94 70 48 NIL 88 12)
+ (18 NIL 46 44 62 97 63 86 15 60)
+ (47 78 52 85 33 11 84 53 34 31)
+ (71 55 80 1 25 16 9 76 37 87)
+ (67 72 27 64 79 41 21 89 49 26)
+ (92 98 82 24 17 38 66 43 90 91)
+ (35 61 22 74 68 14 29 8 50 4))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 552
+          Expanded Nodes: 79
+          Penetration: 0.0036231885
+          Points: 143
+          Objective: 2000
+          Average branching factor: 2.6200373%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  19:58:22 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 12
+          Expanded Nodes: 7
+          Penetration: 0.16666667
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.198952%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:03:31 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((2 NIL 4 NIL 6 NIL 8 NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL 5 NIL 7 NIL 9 NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 1 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 30
+          Expanded Nodes: 13
+          Penetration: 0.033333335
+          Points: 21
+          Objective: 60
+          Average branching factor: 1.4831691%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:05:36 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((1 T 3 23 NIL 88 NIL NIL NIL NIL)
+ (NIL 45 43 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 56 NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 54 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 0 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 12
+          Expanded Nodes: 2
+          Penetration: 0.0
+          Points: 12
+          Objective: 270
+          Average branching factor: 1.198952%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:07:58 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((1 T 3 23 NIL 88 NIL NIL NIL NIL)
+ (NIL 45 43 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 56 NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 54 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 0 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 12
+          Expanded Nodes: 2
+          Penetration: 0.0
+          Points: 12
+          Objective: 270
+          Average branching factor: 1.198952%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:08:19 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((98 97 NIL 95 94 93 92 91 90 89)
+ (T 2 3 4 5 55 6 7 8 9)
+ (NIL 66 NIL NIL NIL NIL NIL NIL NIL 11)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 22 NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 88 NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL 99 NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 1 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 55
+          Expanded Nodes: 15
+          Penetration: 0.018181818
+          Points: 97
+          Objective: 600
+          Average branching factor: 1.7105427%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:10:20 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 5 NIL NIL NIL NIL NIL NIL NIL T)
+ (NIL NIL NIL 6 NIL NIL NIL NIL NIL NIL)
+ (NIL 4 NIL NIL NIL 14 NIL NIL NIL 24)
+ (NIL NIL NIL 7 NIL NIL NIL 17 NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL 23)
+ (NIL NIL NIL 8 NIL NIL NIL 18 NIL NIL)
+ (NIL 2 NIL NIL NIL 12 NIL NIL NIL 22)
+ (NIL NIL NIL 9 NIL NIL NIL 19 NIL NIL)
+ (NIL 1 NIL NIL NIL 11 NIL NIL NIL 21)
+ (NIL NIL NIL 10 NIL NIL NIL 20 NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 37
+          Expanded Nodes: 12
+          Penetration: 0.054054056
+          Points: 56
+          Objective: 300
+          Average branching factor: 1.5400125%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:11:54 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((98 97 NIL 95 94 93 92 91 90 89)
+ (T 2 3 4 5 55 6 7 8 9)
+ (NIL 66 NIL NIL NIL NIL NIL NIL NIL 11)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 22 NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 88 NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL 99 NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 1 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 55
+          Expanded Nodes: 15
+          Penetration: 0.018181818
+          Points: 97
+          Objective: 600
+          Average branching factor: 1.7105427%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:12:46 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 5 NIL NIL NIL NIL NIL NIL NIL T)
+ (NIL NIL NIL 6 NIL NIL NIL NIL NIL NIL)
+ (NIL 4 NIL NIL NIL 14 NIL NIL NIL 24)
+ (NIL NIL NIL 7 NIL NIL NIL 17 NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL 23)
+ (NIL NIL NIL 8 NIL NIL NIL 18 NIL NIL)
+ (NIL 2 NIL NIL NIL 12 NIL NIL NIL 22)
+ (NIL NIL NIL 9 NIL NIL NIL 19 NIL NIL)
+ (NIL 1 NIL NIL NIL 11 NIL NIL NIL 21)
+ (NIL NIL NIL 10 NIL NIL NIL 20 NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 37
+          Expanded Nodes: 12
+          Penetration: 0.054054056
+          Points: 56
+          Objective: 300
+          Average branching factor: 1.5400125%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:13:48 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T 56 NIL 96 17 67 71 12 69 62)
+ (64 1 NIL 41 NIL 38 32 0 NIL 26)
+ (93 NIL 76 82 65 7 72 NIL 46 89)
+ (13 34 25 NIL 4 40 49 45 75 23)
+ (3 16 70 95 21 60 91 28 98 66)
+ (52 88 99 30 2 20 35 31 19 55)
+ (79 77 58 39 92 37 57 42 11 9)
+ (87 83 29 14 53 85 22 27 24 63)
+ (73 NIL 47 NIL 6 10 74 78 97 61)
+ (90 36 50 43 94 59 54 5 44 33))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 4 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 15670
+          Expanded Nodes: 2025
+          Penetration: 0.00025526484
+          Points: 256
+          Objective: 2000
+          Average branching factor: 4.8369303%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:14:12 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T 80 15 60 NIL 38 74 63 12 NIL)
+ (20 96 NIL 45 17 37 49 48 93 68)
+ (19 NIL 30 87 5 62 34 54 53 55)
+ (65 66 47 11 82 44 18 75 86 36)
+ (97 73 40 0 92 23 3 79 85 89)
+ (71 52 1 78 4 69 39 67 94 59)
+ (41 43 61 28 84 21 32 90 51 10)
+ (29 6 2 99 98 22 77 56 35 33)
+ (70 50 NIL 76 57 16 27 26 9 91)
+ (8 83 72 7 25 81 95 14 88 58))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 787
+          Expanded Nodes: 118
+          Penetration: 0.002541296
+          Points: 101
+          Objective: 2000
+          Average branching factor: 2.847411%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:14:22 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((28 16 30 57 21 15 NIL 47 3 T)
+ (4 92 19 86 36 NIL 6 NIL 80 98)
+ (NIL 46 71 84 1 NIL 17 59 NIL 64)
+ (8 0 12 29 14 43 61 85 90 34)
+ (10 76 51 11 39 99 75 83 22 82)
+ (66 23 67 40 94 77 70 91 79 78)
+ (49 95 27 31 58 33 7 38 74 72)
+ (26 97 24 48 88 68 93 5 32 42)
+ (44 37 69 63 62 50 NIL 41 65 73)
+ (13 89 81 55 60 96 56 87 9 18))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 3 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 5659
+          Expanded Nodes: 905
+          Penetration: 0.000530129
+          Points: 134
+          Objective: 2000
+          Average branching factor: 4.041123%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:14:32 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((75 46 NIL 64 84 NIL 92 72 15 71)
+ (T 34 31 52 NIL 39 26 54 82 51)
+ (78 42 NIL 20 16 83 9 68 88 93)
+ (41 NIL 23 69 0 47 5 70 38 79)
+ (44 97 81 55 25 65 48 85 61 32)
+ (12 56 59 63 8 18 7 80 17 13)
+ (6 66 21 14 4 86 90 45 60 11)
+ (29 2 22 1 74 30 3 40 50 96)
+ (10 28 87 67 NIL 58 27 36 77 76)
+ (37 57 43 95 94 33 24 73 62 49))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 3 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 2974
+          Expanded Nodes: 390
+          Penetration: 0.0010087425
+          Points: 323
+          Objective: 2000
+          Average branching factor: 3.5863753%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:14:59 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((74 NIL NIL 81 59 22 49 12 38 13)
+ (T 83 62 40 75 82 8 73 NIL 24)
+ (42 97 NIL 21 86 53 52 34 11 14)
+ (71 NIL 88 56 36 47 68 NIL 85 72)
+ (35 61 5 NIL 7 3 55 80 31 67)
+ (89 65 54 99 69 30 26 NIL 37 10)
+ (51 98 NIL 25 0 79 27 76 43 17)
+ (90 60 84 6 63 96 45 58 4 48)
+ (23 32 2 41 50 18 1 16 70 9)
+ (66 44 77 95 15 94 57 28 20 33))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 4 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 11920
+          Expanded Nodes: 1398
+          Penetration: 0.00033557048
+          Points: 301
+          Objective: 2000
+          Average branching factor: 4.609557%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:15:13 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T 23 NIL 53 81 96 19 17 95 18)
+ (25 64 NIL 74 49 55 58 78 92 82)
+ (26 NIL 6 0 5 29 60 14 83 39)
+ (73 33 28 NIL 59 11 67 84 NIL 69)
+ (43 56 35 37 87 NIL 38 NIL NIL 21)
+ (47 97 62 99 1 41 48 15 85 94)
+ (36 98 93 50 8 88 76 16 7 66)
+ (52 51 10 12 42 13 2 34 20 22)
+ (80 4 70 91 44 90 65 46 77 63)
+ (31 40 9 71 NIL 89 24 61 32 79))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 4 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 16798
+          Expanded Nodes: 2238
+          Penetration: 0.00023812358
+          Points: 290
+          Objective: 2000
+          Average branching factor: 4.893774%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:15:25 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((56 NIL NIL 63 41 32 69 30 47 46)
+ (T 8 12 54 50 7 79 92 24 18)
+ (87 66 NIL 43 3 67 90 5 35 27)
+ (65 NIL 36 81 75 11 NIL 40 60 88)
+ (98 0 58 NIL 21 20 2 38 62 51)
+ (NIL 4 94 22 NIL 97 34 53 82 29)
+ (9 70 74 99 6 91 25 78 83 23)
+ (93 42 55 59 85 73 76 19 26 89)
+ (71 77 64 44 33 17 NIL 14 28 37)
+ (72 15 80 49 45 57 95 96 39 52))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 4 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 12062
+          Expanded Nodes: 1391
+          Penetration: 0.00033161996
+          Points: 191
+          Objective: 2000
+          Average branching factor: 4.609557%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:15:34 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((13 69 46 39 NIL 2 50 17 90 T)
+ (93 94 16 3 36 25 NIL NIL 72 22)
+ (20 81 53 47 73 5 45 49 NIL 38)
+ (NIL 71 91 79 31 9 27 80 60 86)
+ (67 84 1 NIL 52 18 89 11 55 19)
+ (97 98 56 26 68 4 14 40 30 76)
+ (NIL 43 78 77 6 95 61 8 65 54)
+ (96 10 75 74 12 48 59 15 62 23)
+ (32 92 29 35 88 33 37 64 44 99)
+ (34 63 0 87 21 51 83 66 41 57))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 3 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 3958
+          Expanded Nodes: 592
+          Penetration: 0.00075795857
+          Points: 234
+          Objective: 2000
+          Average branching factor: 3.7569056%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:16:02 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((60 12 NIL 6 39 44 29 67 T 2)
+ (36 24 72 95 92 91 NIL 86 38 79)
+ (32 10 31 NIL 97 NIL 43 NIL 4 NIL)
+ (77 76 11 NIL 23 NIL 37 99 56 83)
+ (87 14 80 13 0 9 54 50 3 46)
+ (25 5 45 18 26 73 19 8 22 88)
+ (98 59 64 15 75 78 27 21 66 52)
+ (20 40 94 62 68 81 33 65 30 96)
+ (89 93 48 82 NIL 51 49 84 90 16)
+ (41 34 61 69 63 55 28 1 57 42))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 4 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 13644
+          Expanded Nodes: 1753
+          Penetration: 0.00029316917
+          Points: 209
+          Objective: 2000
+          Average branching factor: 4.7232437%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:16:09 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL 67 NIL 88 17 60 33 24)
+ (34 80 NIL NIL 97 59 32 69 61 11)
+ (65 NIL 18 63 43 92 49 90 85 45)
+ (23 78 44 47 53 52 56 64 6 19)
+ (16 9 25 15 93 35 48 3 41 14)
+ (96 89 62 1 42 4 20 0 13 12)
+ (55 46 98 86 58 29 2 31 51 84)
+ (68 54 82 99 21 30 79 83 76 39)
+ (38 72 71 36 40 81 94 66 NIL 95)
+ (77 26 87 10 22 28 27 8 91 74))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 3 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 2603
+          Expanded Nodes: 311
+          Penetration: 0.0011525164
+          Points: 205
+          Objective: 2000
+          Average branching factor: 3.529532%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:16:22 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T 87 NIL 53 26 48 98 21 28 84)
+ (42 19 NIL 6 12 20 NIL 89 97 35)
+ (38 NIL 60 74 91 81 55 23 77 39)
+ (73 72 56 NIL 93 10 58 25 46 13)
+ (59 31 4 83 30 80 NIL 8 3 95)
+ (29 5 52 45 62 88 54 11 9 18)
+ (1 67 66 57 14 85 49 75 96 NIL)
+ (82 90 92 0 32 61 33 63 69 65)
+ (40 16 41 78 94 50 36 43 27 47)
+ (44 NIL NIL 76 2 37 64 79 34 24))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 4 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 16938
+          Expanded Nodes: 2191
+          Penetration: 0.00023615539
+          Points: 282
+          Objective: 2000
+          Average branching factor: 4.893774%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:24:06 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 1.5681818
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 6
+          Penetration: 0.25
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:30:37 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((2 NIL 4 NIL 6 NIL 8 NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL 5 NIL 7 NIL 9 NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 1 
+          H (Heuristic): 8.181818
+          Solution Length: 6
+          Generated Nodes: 15
+          Expanded Nodes: 7
+          Penetration: 0.06666667
+          Points: 21
+          Objective: 60
+          Average branching factor: 1.2557953%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:31:52 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((1 T 3 23 NIL 88 NIL NIL NIL NIL)
+ (NIL 45 43 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 56 NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 54 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 0 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 3
+          Penetration: 0.0
+          Points: 12
+          Objective: 270
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:32:14 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((1 T 3 23 NIL 88 NIL NIL NIL NIL)
+ (NIL 45 43 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 56 NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 54 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 0 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 3
+          Penetration: 0.0
+          Points: 12
+          Objective: 270
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:33:59 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 NIL T)
+ (1 2 3 4 5 55 6 NIL 8 NIL)
+ (NIL 66 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 22 NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 88 NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 3 
+          H (Heuristic): 8.988086
+          Solution Length: 6
+          Generated Nodes: 34
+          Expanded Nodes: 14
+          Penetration: 0.0882353
+          Points: 197
+          Objective: 600
+          Average branching factor: 1.5400125%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:35:34 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 5 NIL NIL NIL 15 NIL NIL NIL NIL)
+ (NIL NIL NIL 6 NIL NIL NIL NIL NIL NIL)
+ (NIL 4 NIL NIL NIL 14 NIL NIL NIL NIL)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 12 
+          H (Heuristic): 9.593023
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 16
+          Penetration: 0.42857143
+          Points: 226
+          Objective: 300
+          Average branching factor: 1.4831691%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:36:53 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL 38 NIL 27 NIL NIL NIL)
+ (NIL NIL NIL 74 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 7 NIL 57 26 NIL NIL NIL NIL)
+ (NIL 9 NIL 87 39 NIL 41 NIL NIL NIL)
+ (46 49 NIL 0 NIL NIL 98 NIL NIL NIL)
+ (NIL 14 93 37 NIL NIL NIL NIL NIL NIL)
+ (72 NIL NIL NIL NIL NIL 43 NIL NIL NIL)
+ (34 89 NIL NIL 47 62 NIL NIL NIL NIL)
+ (NIL NIL 83 75 NIL NIL NIL 94 NIL NIL)
+ (70 NIL NIL 64 78 73 NIL T NIL 90))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 34 
+          H (Heuristic): 5.263158
+          Solution Length: 6
+          Generated Nodes: 150
+          Expanded Nodes: 45
+          Penetration: 0.22666668
+          Points: 1796
+          Objective: 2000
+          Average branching factor: 2.0516033%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:39:33 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 1.5681818
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 6
+          Penetration: 0.25
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:50:14 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((2 NIL 4 NIL 6 NIL 8 NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL 5 NIL 7 NIL 9 NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 1 
+          H (Heuristic): 8.181818
+          Solution Length: 6
+          Generated Nodes: 15
+          Expanded Nodes: 7
+          Penetration: 0.06666667
+          Points: 21
+          Objective: 60
+          Average branching factor: 1.2557953%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:51:11 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((2 NIL 4 NIL 6 NIL 8 NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL 5 NIL 7 NIL 9 NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 1 
+          H (Heuristic): 8.181818
+          Solution Length: 6
+          Generated Nodes: 15
+          Expanded Nodes: 7
+          Penetration: 0.06666667
+          Points: 21
+          Objective: 60
+          Average branching factor: 1.2557953%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:52:07 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((1 T 3 23 NIL 88 NIL NIL NIL NIL)
+ (NIL 45 43 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 56 NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 54 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 0 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 3
+          Penetration: 0.0
+          Points: 12
+          Objective: 270
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:52:45 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 NIL T)
+ (1 2 3 4 5 55 6 NIL 8 NIL)
+ (NIL 66 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 22 NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 88 NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 3 
+          H (Heuristic): 8.988086
+          Solution Length: 6
+          Generated Nodes: 34
+          Expanded Nodes: 14
+          Penetration: 0.0882353
+          Points: 197
+          Objective: 600
+          Average branching factor: 1.5400125%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:53:10 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 NIL T)
+ (1 2 3 4 5 55 6 NIL 8 NIL)
+ (NIL 66 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 22 NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 88 NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 3 
+          H (Heuristic): 8.988086
+          Solution Length: 6
+          Generated Nodes: 34
+          Expanded Nodes: 14
+          Penetration: 0.0882353
+          Points: 197
+          Objective: 600
+          Average branching factor: 1.5400125%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:53:25 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 NIL T)
+ (1 2 3 4 5 55 6 NIL 8 NIL)
+ (NIL 66 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 22 NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 88 NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 3 
+          H (Heuristic): 8.988086
+          Solution Length: 6
+          Generated Nodes: 34
+          Expanded Nodes: 14
+          Penetration: 0.0882353
+          Points: 197
+          Objective: 600
+          Average branching factor: 1.5400125%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:53:57 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 NIL T)
+ (1 2 3 4 5 55 6 NIL 8 NIL)
+ (NIL 66 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 22 NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 88 NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 3 
+          H (Heuristic): 8.988086
+          Solution Length: 6
+          Generated Nodes: 34
+          Expanded Nodes: 14
+          Penetration: 0.0882353
+          Points: 197
+          Objective: 600
+          Average branching factor: 1.5400125%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:56:02 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 5 NIL NIL NIL 15 NIL NIL NIL NIL)
+ (NIL NIL NIL 6 NIL NIL NIL NIL NIL NIL)
+ (NIL 4 NIL NIL NIL 14 NIL NIL NIL NIL)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 12 
+          H (Heuristic): 9.593023
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 16
+          Penetration: 0.42857143
+          Points: 226
+          Objective: 300
+          Average branching factor: 1.4831691%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:56:42 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 5 NIL NIL NIL 15 NIL NIL NIL NIL)
+ (NIL NIL NIL 6 NIL NIL NIL NIL NIL NIL)
+ (NIL 4 NIL NIL NIL 14 NIL NIL NIL NIL)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 12 
+          H (Heuristic): 9.593023
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 16
+          Penetration: 0.42857143
+          Points: 226
+          Objective: 300
+          Average branching factor: 1.4831691%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:56:51 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 5 NIL NIL NIL 15 NIL NIL NIL NIL)
+ (NIL NIL NIL 6 NIL NIL NIL NIL NIL NIL)
+ (NIL 4 NIL NIL NIL 14 NIL NIL NIL NIL)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 12 
+          H (Heuristic): 9.593023
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 16
+          Penetration: 0.42857143
+          Points: 226
+          Objective: 300
+          Average branching factor: 1.4831691%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:57:11 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 NIL T)
+ (1 2 3 4 5 55 6 NIL 8 NIL)
+ (NIL 66 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 22 NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 88 NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 3 
+          H (Heuristic): 8.988086
+          Solution Length: 6
+          Generated Nodes: 34
+          Expanded Nodes: 14
+          Penetration: 0.0882353
+          Points: 197
+          Objective: 600
+          Average branching factor: 1.5400125%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:57:36 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 5 NIL NIL NIL 15 NIL NIL NIL NIL)
+ (NIL NIL NIL 6 NIL NIL NIL NIL NIL NIL)
+ (NIL 4 NIL NIL NIL 14 NIL NIL NIL NIL)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 12 
+          H (Heuristic): 9.593023
+          Solution Length: 6
+          Generated Nodes: 28
+          Expanded Nodes: 16
+          Penetration: 0.42857143
+          Points: 226
+          Objective: 300
+          Average branching factor: 1.4831691%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:58:08 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((17 55 29 89 18 NIL NIL NIL 47 NIL)
+ (NIL 43 34 NIL NIL 8 35 NIL NIL T)
+ (NIL 0 23 NIL NIL 32 NIL NIL 46 NIL)
+ (NIL 48 82 22 NIL 25 92 NIL NIL NIL)
+ (NIL 20 NIL NIL NIL NIL 71 NIL NIL NIL)
+ (2 NIL 28 80 66 NIL 94 NIL NIL NIL)
+ (49 NIL 3 52 54 58 NIL 53 NIL NIL)
+ (12 1 84 95 45 98 NIL NIL NIL NIL)
+ (64 NIL 10 30 19 NIL NIL 33 NIL NIL)
+ (81 74 91 59 NIL 21 85 NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 25 
+          H (Heuristic): 17.74097
+          Solution Length: 6
+          Generated Nodes: 126
+          Expanded Nodes: 36
+          Penetration: 0.1984127
+          Points: 1237
+          Objective: 2000
+          Average branching factor: 1.9947598%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:58:21 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL 8 16 51 63 NIL NIL 10 98)
+ (92 52 NIL 21 NIL 85 17 60 NIL 67)
+ (59 NIL 64 NIL 81 76 27 NIL 12 NIL)
+ (13 11 0 71 NIL NIL 33 NIL 48 NIL)
+ (47 69 NIL 26 80 NIL 84 15 NIL 18)
+ (95 5 56 NIL NIL 57 NIL 45 NIL NIL)
+ (50 1 NIL NIL 72 36 91 NIL 58 NIL)
+ (54 75 86 NIL 96 68 65 NIL 87 T)
+ (31 61 29 89 NIL 25 73 NIL NIL 74)
+ (6 78 37 19 46 NIL NIL 62 NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 18 
+          H (Heuristic): 21.93676
+          Solution Length: 6
+          Generated Nodes: 117
+          Expanded Nodes: 29
+          Penetration: 0.15384616
+          Points: 925
+          Objective: 2000
+          Average branching factor: 1.9947598%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:58:33 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL 95 5 NIL 64 34 NIL NIL)
+ (NIL 49 83 89 96 62 NIL NIL 60 NIL)
+ (65 NIL 70 84 NIL NIL NIL NIL NIL NIL)
+ (77 15 55 80 98 0 13 48 NIL 4)
+ (NIL 43 NIL NIL 31 6 22 NIL NIL NIL)
+ (NIL 50 53 11 36 46 59 NIL NIL T)
+ (40 12 8 NIL 7 24 56 NIL NIL NIL)
+ (51 66 NIL 21 25 NIL NIL NIL NIL NIL)
+ (38 94 42 69 NIL 26 35 NIL NIL NIL)
+ (33 NIL NIL NIL NIL 63 NIL 52 NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 24 
+          H (Heuristic): 15.882945
+          Solution Length: 6
+          Generated Nodes: 128
+          Expanded Nodes: 35
+          Penetration: 0.1875
+          Points: 1284
+          Objective: 2000
+          Average branching factor: 1.9947598%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:58:48 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 79 21 12 NIL 89 NIL NIL 44 NIL)
+ (NIL 0 20 72 52 NIL 67 NIL NIL T)
+ (33 45 57 90 NIL 10 97 NIL NIL 41)
+ (31 80 NIL NIL NIL NIL 22 9 NIL NIL)
+ (NIL 42 71 43 48 55 1 NIL NIL NIL)
+ (98 50 NIL 7 8 32 13 NIL NIL NIL)
+ (23 62 63 54 NIL NIL 34 17 NIL NIL)
+ (95 60 11 NIL 27 NIL 5 NIL NIL NIL)
+ (18 26 84 75 24 NIL NIL 76 59 NIL)
+ (81 NIL 6 70 NIL 36 14 25 NIL 2))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 21 
+          H (Heuristic): 16.52474
+          Solution Length: 6
+          Generated Nodes: 117
+          Expanded Nodes: 32
+          Penetration: 0.17948719
+          Points: 1356
+          Objective: 2000
+          Average branching factor: 1.9947598%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:59:03 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((26 78 39 44 85 NIL 64 54 60 27)
+ (NIL NIL 67 24 NIL 10 32 95 35 5)
+ (80 9 57 87 71 46 NIL NIL NIL 66)
+ (88 45 19 58 31 34 77 NIL 1 NIL)
+ (59 70 74 72 17 97 76 NIL 79 NIL)
+ (56 23 65 92 82 NIL 91 NIL NIL 40)
+ (52 62 47 4 75 94 50 29 NIL 15)
+ (NIL NIL 93 13 49 28 NIL NIL NIL NIL)
+ (NIL 90 6 43 53 0 55 NIL 51 NIL)
+ (NIL 8 42 11 22 7 25 NIL NIL T))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 13 
+          H (Heuristic): 27.513089
+          Solution Length: 6
+          Generated Nodes: 95
+          Expanded Nodes: 24
+          Penetration: 0.1368421
+          Points: 681
+          Objective: 2000
+          Average branching factor: 1.881073%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:59:13 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 34 86 42 NIL 44 NIL 16 NIL 40)
+ (NIL 39 22 56 NIL 93 NIL NIL NIL 85)
+ (19 71 3 51 62 NIL 65 NIL 6 NIL)
+ (60 58 4 81 88 NIL NIL 64 NIL NIL)
+ (9 NIL NIL 14 41 NIL 72 NIL NIL NIL)
+ (83 91 53 27 NIL 33 35 NIL NIL NIL)
+ (77 NIL 68 10 NIL 55 28 61 NIL NIL)
+ (26 NIL 63 82 18 NIL 36 NIL NIL NIL)
+ (NIL 24 30 17 31 1 46 NIL 75 NIL)
+ (90 57 38 43 NIL 15 13 66 NIL T))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 20 
+          H (Heuristic): 19.688513
+          Solution Length: 6
+          Generated Nodes: 112
+          Expanded Nodes: 31
+          Penetration: 0.17857144
+          Points: 1176
+          Objective: 2000
+          Average branching factor: 1.9379163%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:59:26 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((11 NIL 44 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 76 NIL 80 T NIL NIL NIL NIL)
+ (46 1 NIL NIL NIL NIL NIL NIL NIL 10)
+ (24 67 8 95 NIL 63 NIL NIL NIL NIL)
+ (NIL 61 83 NIL NIL 55 NIL NIL NIL NIL)
+ (NIL NIL NIL 59 52 NIL NIL NIL NIL NIL)
+ (NIL NIL 75 27 NIL NIL 2 NIL NIL NIL)
+ (77 88 NIL 42 NIL 38 NIL NIL NIL NIL)
+ (25 NIL NIL NIL 16 20 31 NIL 72 NIL)
+ (22 66 64 57 13 36 NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 32 
+          H (Heuristic): 9.51555
+          Solution Length: 6
+          Generated Nodes: 150
+          Expanded Nodes: 43
+          Penetration: 0.21333334
+          Points: 1630
+          Objective: 2000
+          Average branching factor: 2.0516033%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:06:00 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: DFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 6
+          Expanded Nodes: 4
+          Penetration: 0.33333334
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0284217%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:08:57 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: DFS 
+          G (Depth): 9 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 15
+          Expanded Nodes: 11
+          Penetration: 0.6
+          Points: 65
+          Objective: 60
+          Average branching factor: 1.2557953%
+          OBJECTIVE REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:10:20 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 12 3 23 NIL 88 NIL NIL NIL NIL)
+ (21 NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: DFS 
+          G (Depth): 3 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 11
+          Expanded Nodes: 5
+          Penetration: 0.27272728
+          Points: 154
+          Objective: 270
+          Average branching factor: 1.198952%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:17:27 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 97 96 95 94 93 92 91 90 NIL)
+ (1 2 3 4 5 55 6 7 8 9)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL 11)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL T NIL NIL NIL NIL NIL 33 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL 44 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL 77 NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: DFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 16
+          Expanded Nodes: 4
+          Penetration: 0.125
+          Points: 186
+          Objective: 600
+          Average branching factor: 1.3126388%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:18:57 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL 15 NIL NIL NIL 25)
+ (NIL NIL NIL NIL NIL NIL NIL 16 NIL NIL)
+ (NIL 4 NIL NIL NIL NIL NIL NIL NIL 24)
+ (NIL NIL NIL 7 NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 NIL NIL NIL NIL)
+ (NIL NIL NIL 8 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL T NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: DFS 
+          G (Depth): 12 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 27
+          Expanded Nodes: 14
+          Penetration: 0.44444445
+          Points: 186
+          Objective: 300
+          Average branching factor: 1.4263256%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:20:13 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL 74 81 47 55 10 NIL NIL NIL NIL)
+ (46 77 62 98 NIL NIL NIL NIL NIL NIL)
+ (18 NIL 70 19 NIL 29 NIL NIL NIL T)
+ (57 93 42 63 41 58 NIL NIL NIL NIL)
+ (NIL 22 NIL 44 NIL NIL 36 NIL NIL NIL)
+ (97 NIL NIL 1 14 34 92 NIL NIL NIL)
+ (75 86 85 NIL 33 NIL NIL NIL 24 NIL)
+ (64 NIL NIL 83 NIL 89 88 26 NIL NIL)
+ (NIL NIL NIL NIL NIL 38 NIL 7 NIL NIL)
+ (39 NIL 43 66 68 91 NIL 79 NIL NIL))
+ ___________________________________
+
+          Algorithm: DFS 
+          G (Depth): 27 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 104
+          Expanded Nodes: 29
+          Penetration: 0.2596154
+          Points: 1334
+          Objective: 2000
+          Average branching factor: 1.9379163%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:20:24 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL 1 91 51 NIL NIL NIL NIL NIL)
+ (NIL 69 52 NIL 0 NIL NIL NIL T NIL)
+ (95 NIL 9 NIL 8 NIL NIL 84 NIL NIL)
+ (NIL 28 44 50 NIL NIL 75 NIL NIL NIL)
+ (66 19 NIL 46 NIL 48 49 NIL NIL NIL)
+ (55 80 NIL 90 64 NIL 65 NIL NIL NIL)
+ (10 NIL 94 NIL NIL 96 NIL NIL NIL NIL)
+ (NIL 25 5 NIL 77 82 NIL NIL 31 NIL)
+ (NIL 57 37 73 NIL 15 NIL NIL NIL 13)
+ (59 NIL NIL NIL 11 NIL NIL NIL NIL 56))
+ ___________________________________
+
+          Algorithm: DFS 
+          G (Depth): 29 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 105
+          Expanded Nodes: 31
+          Penetration: 0.2761905
+          Points: 1401
+          Objective: 2000
+          Average branching factor: 1.9379163%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  21:20:38 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL 31 NIL NIL 55 NIL NIL NIL NIL)
+ (49 1 6 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 60 42 48 T NIL NIL NIL NIL)
+ (69 NIL 29 NIL NIL 96 23 NIL NIL NIL)
+ (10 NIL NIL NIL NIL 30 NIL NIL NIL NIL)
+ (40 NIL 94 NIL 51 NIL NIL NIL NIL NIL)
+ (NIL 3 NIL NIL NIL 13 15 NIL NIL NIL)
+ (NIL 0 NIL NIL NIL 22 NIL NIL NIL NIL)
+ (4 NIL NIL NIL NIL 32 NIL NIL NIL NIL)
+ (NIL 84 24 5 NIL 50 NIL NIL 92 NIL))
+ ___________________________________
+
+          Algorithm: DFS 
+          G (Depth): 35 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 124
+          Expanded Nodes: 37
+          Penetration: 0.28225806
+          Points: 1975
+          Objective: 2000
+          Average branching factor: 1.9947598%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  22:13:22 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((9 35 89 8 NIL NIL NIL NIL NIL T)
+ (80 38 98 NIL NIL NIL NIL NIL NIL NIL)
+ (18 66 NIL 10 NIL NIL NIL NIL NIL NIL)
+ (45 NIL 3 NIL 65 NIL NIL NIL NIL NIL)
+ (40 63 NIL 69 NIL 26 NIL 62 NIL NIL)
+ (11 47 53 30 56 14 NIL NIL NIL NIL)
+ (4 NIL 96 24 90 54 NIL NIL NIL NIL)
+ (NIL 83 44 55 64 72 46 NIL NIL NIL)
+ (NIL NIL 41 17 27 NIL NIL 1 NIL 36)
+ (81 42 71 NIL 0 NIL 74 77 NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 26 
+          H (Heuristic): 16.61997
+          Solution Length: 6
+          Generated Nodes: 120
+          Expanded Nodes: 37
+          Penetration: 0.21666667
+          Points: 1360
+          Objective: 2000
+          Average branching factor: 1.9947598%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  22:13:35 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 2 
+          H (Heuristic): 3.1363635
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 6
+          Penetration: 0.25
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  22:13:44 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((1 T 3 23 NIL 88 NIL NIL NIL NIL)
+ (NIL 45 43 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 56 NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 54 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 0 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 3
+          Penetration: 0.0
+          Points: 12
+          Objective: 270
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  22:13:52 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((1 T 3 23 NIL 88 NIL NIL NIL NIL)
+ (NIL 45 43 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 56 NIL 78 NIL NIL NIL NIL NIL NIL)
+ (89 NIL 99 54 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 0 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 3
+          Penetration: 0.0
+          Points: 12
+          Objective: 270
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  22:14:22 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL NIL NIL NIL NIL NIL NIL 25 NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (55 66 NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL 28 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (69 NIL 96 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL T NIL 22 82 NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL 52))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 45 
+          H (Heuristic): 1.4
+          Solution Length: 6
+          Generated Nodes: 132
+          Expanded Nodes: 46
+          Penetration: 0.3409091
+          Points: 1970
+          Objective: 2000
+          Average branching factor: 1.9947598%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  22:19:41 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((33 10 NIL NIL NIL 17 5 NIL NIL 31)
+ (23 69 NIL 43 76 66 NIL NIL 1 NIL)
+ (52 77 NIL NIL NIL NIL NIL 55 NIL NIL)
+ (93 NIL 73 25 7 78 34 NIL NIL 36)
+ (22 NIL 70 99 NIL NIL 95 NIL 39 NIL)
+ (14 50 68 87 NIL NIL 54 21 NIL NIL)
+ (29 41 NIL 86 59 NIL NIL 45 32 NIL)
+ (11 NIL NIL 35 88 92 37 NIL NIL NIL)
+ (63 44 72 96 13 NIL NIL NIL 67 53)
+ (12 71 NIL NIL 27 61 NIL 16 T NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 22 
+          H (Heuristic): 15.461198
+          Solution Length: 6
+          Generated Nodes: 129
+          Expanded Nodes: 33
+          Penetration: 0.17054264
+          Points: 1296
+          Objective: 2000
+          Average branching factor: 1.9947598%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  22:22:00 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((42 45 NIL 81 NIL 73 30 36 82 NIL)
+ (64 0 1 23 76 77 96 NIL 2 59)
+ (9 41 80 NIL 44 NIL 20 68 NIL 47)
+ (93 66 70 54 99 10 85 11 58 NIL)
+ (60 31 NIL 86 NIL 48 13 55 88 NIL)
+ (72 NIL 40 63 27 32 26 4 18 17)
+ (98 39 83 24 67 NIL 37 14 NIL NIL)
+ (84 95 NIL 71 NIL 69 90 NIL NIL 6)
+ (61 NIL 74 38 22 NIL NIL NIL 33 NIL)
+ (16 28 62 8 46 3 7 NIL 89 T))
+ ___________________________________
+
+          Algorithm: SMA* 
+          G (Depth): 12 
+          H (Heuristic): 26.930932
+          Solution Length: 6
+          Generated Nodes: 21
+          Expanded Nodes: 19
+          Penetration: 0.5714286
+          Points: 745
+          Objective: 2000
+          Average branching factor: 1.3694822%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  22:22:14 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((89 NIL NIL 80 11 NIL 23 NIL 69 T)
+ (NIL 93 2 42 70 NIL NIL NIL NIL NIL)
+ (64 NIL NIL NIL 4 NIL NIL NIL NIL NIL)
+ (30 73 50 31 79 NIL 8 NIL NIL NIL)
+ (98 NIL NIL 97 NIL 96 NIL NIL NIL NIL)
+ (NIL 39 74 NIL 32 NIL NIL NIL 49 NIL)
+ (35 82 7 3 NIL 56 47 76 NIL NIL)
+ (28 65 67 94 6 NIL NIL NIL NIL NIL)
+ (37 5 13 NIL NIL 60 0 NIL 20 NIL)
+ (NIL 40 NIL 46 NIL NIL 53 24 NIL NIL))
+ ___________________________________
+
+          Algorithm: SMA* 
+          G (Depth): 27 
+          H (Heuristic): 8.8741255
+          Solution Length: 6
+          Generated Nodes: 43
+          Expanded Nodes: 42
+          Penetration: 0.627907
+          Points: 1615
+          Objective: 2000
+          Average branching factor: 1.5968559%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  22:22:26 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((T NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: SMA* 
+          G (Depth): 2 
+          H (Heuristic): 1.5681818
+          Solution Length: 6
+          Generated Nodes: 5
+          Expanded Nodes: 5
+          Penetration: 0.4
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.0284217%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  22:22:45 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((2 NIL 4 NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL 3 NIL 5 NIL NIL NIL NIL NIL T)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: SMA* 
+          G (Depth): 5 
+          H (Heuristic): 4.0
+          Solution Length: 6
+          Generated Nodes: 8
+          Expanded Nodes: 8
+          Penetration: 0.625
+          Points: 51
+          Objective: 60
+          Average branching factor: 1.0852652%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  22:31:14 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 12
+          Expanded Nodes: 7
+          Penetration: 0.16666667
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.198952%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  22:41:40 of Saturday, 12/21/2019 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((NIL NIL T NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL 22 NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL)
+ (NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL))
+ ___________________________________
+
+          Algorithm: BFS 
+          G (Depth): 2 
+          H (Heuristic): 0
+          Solution Length: 6
+          Generated Nodes: 12
+          Expanded Nodes: 7
+          Penetration: 0.16666667
+          Points: 49
+          Objective: 70
+          Average branching factor: 1.198952%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
+
+ ______________STATS______________ 
+
+ _______  20:46:32 of Wednesday, 2/05/2020 (GMT+0)  _______ 
+
+
+ Final State: 
+
+((0 NIL NIL 79 74 96 57 NIL T NIL)
+ (NIL NIL 50 NIL 94 84 NIL NIL 48 NIL)
+ (15 NIL NIL 67 NIL 44 NIL NIL NIL NIL)
+ (78 60 NIL NIL 5 45 90 NIL NIL NIL)
+ (NIL NIL 39 11 31 54 NIL NIL NIL NIL)
+ (33 69 92 2 22 NIL 95 NIL NIL NIL)
+ (26 30 6 NIL 13 56 97 53 NIL NIL)
+ (62 49 75 3 24 NIL NIL 76 NIL NIL)
+ (20 46 65 42 87 66 47 NIL NIL NIL)
+ (51 93 9 82 28 59 29 35 64 NIL))
+ ___________________________________
+
+          Algorithm: A* 
+          G (Depth): 21 
+          H (Heuristic): 18.354683
+          Solution Length: 6
+          Generated Nodes: 113
+          Expanded Nodes: 32
+          Penetration: 0.18584071
+          Points: 1097
+          Objective: 2000
+          Average branching factor: 1.9379163%
+          OBJECTIVE NOT REACHED  
+
+
+
+
+
+
+
