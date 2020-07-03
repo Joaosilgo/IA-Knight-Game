@@ -268,7 +268,7 @@ Os nós explorados são os nós abertos são colocados  atrás da fila dos nós 
   )
 ```
 
-![awkward effect](img/bfs.gif?sanitize=true "IPS logo")
+![awkward effect](Manuais/img/bfs.gif?sanitize=true "IPS logo")
 
 
 ## DFS (Depth-first search)
@@ -280,7 +280,7 @@ O algoritmo DFS permite procurar os nós em profundidade no tabuleiro assim cont
 
 )
 ```
-![awkward effect](img/dfs.gif?sanitize=true "IPS logo")
+![awkward effect](Manuais/img/dfs.gif?sanitize=true "IPS logo")
 
 
 ## A* (A* Search Algorithm)
