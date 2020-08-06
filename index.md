@@ -3,7 +3,7 @@
 
 # Projeto Nº1: Época Normal - Fase nº 1 
 
-![alt text](Manuais/img/ips_logo.png?sanitize=true "IPS logo")
+![alt text](https://raw.githubusercontent.com/Joaosilgo/IA-Knight-Game-P1/master/Manuais/img/ips_logo.png?sanitize=true "IPS logo")
 
 ## Inteligência Artificial 19/20
 Prof. Joaquim Filipe
@@ -178,7 +178,7 @@ operador-8 (1 -2)
 
 Na implementação dos operadores foram validados os seus movimentos bem como a aplicação de todas as Regra Referidas No Topico Acima.
 
-![alt text](Manuais/img/KnightMoves.png?sanitize=true "IPS logo")
+![alt text](https://raw.githubusercontent.com/Joaosilgo/IA-Knight-Game-P1/master/Manuais/img/KnightMoves.png?sanitize=true "IPS logo")
 
 ### Nó
 
@@ -271,7 +271,7 @@ Os nós explorados são os nós abertos são colocados  atrás da fila dos nós 
   )
 ```
 
-![awkward effect](Manuais/img/bfs.gif?sanitize=true "IPS logo")
+![awkward effect](https://raw.githubusercontent.com/Joaosilgo/IA-Knight-Game-P1/master/Manuais/img/bfs.gif?sanitize=true "IPS logo")
 
 
 ## DFS (Depth-first search)
@@ -283,7 +283,7 @@ O algoritmo DFS permite procurar os nós em profundidade no tabuleiro assim cont
 
 )
 ```
-![awkward effect](Manuais/img/dfs.gif?sanitize=true "IPS logo")
+![awkward effect](https://raw.githubusercontent.com/Joaosilgo/IA-Knight-Game-P1/master/Manuais/img/dfs.gif?sanitize=true "IPS logo")
 
 
 ## A* (A* Search Algorithm)
@@ -457,7 +457,7 @@ Para poder comparar a eficácia dos 4 algoritmos funcionais foi feito uma tabela
 
 
 
-![alt text](/Manuais/img/ips_logo.png?sanitize=true "IPS logo")
+![alt text](https://raw.githubusercontent.com/Joaosilgo/IA-Knight-Game-P1/master/Manuais/img/ips_logo.png?sanitize=true "IPS logo")
 
 
 
@@ -509,7 +509,7 @@ A aplicação neçessita da instalação do IDE LispWorks.
 LispWorks é uma Plataforma integrada que serve como ferramenta de desenvolvimento para Common Lisp.
 Poderá adquirir o PersonalEdition e fazer o seu download  [aqui](http://www.lispworks.com/products/lispworks.html)
 
-![alt text](/Manuais/img/lispworks.png?sanitize=true "LispWorks")
+![alt text](https://raw.githubusercontent.com/Joaosilgo/IA-Knight-Game-P1/master/Manuais/img/lispworks.png?sanitize=true "LispWorks")
 
 O sistema do Jogo do Cavalo foi implementado em linguagem LISP e foi desenvolvido com auxilio do IDE LispWorks. A estrutura do projeto é composta por 4 ficheiros:
 
@@ -541,7 +541,7 @@ O sistema do Jogo do Cavalo foi implementado em linguagem LISP e foi desenvolvid
 
 Após a configuração do path temos entao de abrir o Lisp Works, de seguida abrir o ficheiro Projeto.Lisp e Compilar o mesmo.
 
-![awkward effect](Manuais/img/LispWork_Gif.gif?sanitize=true "Gif")
+![awkward effect](https://raw.githubusercontent.com/Joaosilgo/IA-Knight-Game-P1/master/Manuais/img/LispWork_Gif.gif?sanitize=true "Gif")
 
 
 # Interface da Aplicação
